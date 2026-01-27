@@ -2,7 +2,7 @@
 <h3 align="center">I love building projects that solve real-world problems and learning new technologies along the way.</h3>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c5d2k5Y3cxajZma2Jtcm4zaDJuYXp1cjl3MnZvbTZoNWVudDFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif" alt="Zoro" width="300"/>
+  <img src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif" alt="Zoro" width="300"/>
 </div>
 
 - 🔭 I’m currently working on **Integration of Blockchain with AI Prompts**
