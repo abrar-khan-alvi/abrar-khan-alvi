@@ -1,61 +1,55 @@
-<h1 align="center">Hi 👋, I'm Abrar Khan Alvi</h1>
-<h3 align="center">I love building projects that solve real-world problems and learning new technologies along the way.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abrar+Khan+Alvi;Full+Stack+AI+Developer;Building+AI+Agents+%26+RAG+Systems;Blockchain+%26+Smart+Contracts" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abrar-khan-alvi-a218b0234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abrarkhanalvi27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/alvi_saheb" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif" alt="Zoro" width="300"/>
+  <img src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif" alt="Zoro" width="220"/>
 </div>
 
-- 🔭 I’m currently working on **Integration of Blockchain with AI Prompts**
+### ⚡ Quick Bytes
 
-- 🌱 I’m currently learning **Hyperledger Besu, Hyperledger Aries**
+- 🔭 **Building**: Production RAG systems, LLM Agents & SaaS platforms
+- 🔬 **Researching**: Blockchain integration (Hyperledger) with AI & IoT
+- 🏆 **CP**: 1000+ problems solved across Codeforces, LeetCode & CodeChef
+- 📫 **Reach Me**: [abrarkhanalvi27@gmail.com](mailto:abrarkhanalvi27@gmail.com)
 
-- 📫 How to reach me: **abrar1khan2@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abrar-khan-alvi-a218b0234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-khan-alvi-a218b0234" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/18383719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18383719" height="30" width="40" /></a>
-  <a href="https://fb.com/abrarkhanalvi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarkhanalvi27" height="30" width="40" /></a>
-  <a href="https://instagram.com/alvi_saheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvi_saheb" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@alvi_saheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alvi_saheb" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/alvi_saaheb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alvi_saaheb" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/alvi_saheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alvi_saheb" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/alvi_saheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alvi_saheb" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/abrar1khan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrar1khan2" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@abrar1khan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abrar1khan2" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
 
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.svg" alt="Python" title="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.svg" alt="Django" title="Django"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.svg" alt="React" title="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nextjs.svg" alt="Next.js" title="Next.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.svg" alt="Docker" title="Docker"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.svg" alt="Redis" title="Redis"/></code>
 
+---
 
-<div align="left">
-  <!-- Profile Views Count -->
-  <img src="https://komarev.com/ghpvc/?username=abrar-khan-alvi&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-khan-alvi" style="display:inline-block; vertical-align: middle; margin-right: 10px;"/>
+### 🔥 Featured Repositories
 
-  <!-- "Save Palestine" Image -->
-  <img src="https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg" alt="Save Palestine" style="display:inline-block; vertical-align: middle;"/>
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Ekko Loop](https://github.com/abrar-khan-alvi)** | `Django` `Celery` `Redis` `Docker` | B2B SaaS platform automating appointment scheduling & real-time messaging workflows. |
+| **[AI Knowledge Engine](https://github.com/abrar-khan-alvi)** | `DRF` `LangChain` `VectorDB` | Autonomous LLM agents & advanced RAG pipeline for legal document retrieval. |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrar-khan-alvi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-khan-alvi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-
-<!-- Trophy Section -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abrar-khan-alvi" alt="abrar-khan-alvi" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abrar-khan-alvi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <!-- Add the rest of your tools here -->
-</p>
-
-<!-- Top Languages Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-khan-alvi&show_icons=true&locale=en&layout=compact" alt="abrar-khan-alvi" /></p>
-
-<!-- Stats Section -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-khan-alvi&show_icons=true&locale=en" alt="abrar-khan-alvi" /></p>
-
-<!-- Streak Stats Section -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-khan-alvi&" alt="abrar-khan-alvi" /></p>
