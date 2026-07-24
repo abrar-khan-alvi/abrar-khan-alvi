@@ -6,18 +6,19 @@
   <a href="https://linkedin.com/in/abrar-khan-alvi-a218b0234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abrarkhanalvi27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://codeforces.com/profile/alvi_saheb" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.leetcode.com/abrar1khan2" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif" alt="Zoro" width="220"/>
+  <img src="https://media.tenor.com/yPLDl5M30sgAAAAj/one-piece-pixel.gif" alt="Zoro" width="200"/>
 </div>
 
 ### ⚡ Quick Bytes
 
-- 🔭 **Building**: Production RAG systems, LLM Agents & SaaS platforms
-- 🔬 **Researching**: Blockchain integration (Hyperledger) with AI & IoT
+- 🔭 **Building**: Production RAG systems, Autonomous LLM Agents & Full Stack Applications
+- 🔬 **Researching**: Blockchain integration (Hyperledger Fabric/Besu) with AI Prompts & IoT
 - 🏆 **CP**: 1000+ problems solved across Codeforces, LeetCode & CodeChef
 - 📫 **Reach Me**: [abrarkhanalvi27@gmail.com](mailto:abrarkhanalvi27@gmail.com)
 
@@ -25,23 +26,16 @@
 
 ### 🛠️ Tech Stack
 
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.svg" alt="Python" title="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/django.svg" alt="Django" title="Django"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.svg" alt="JavaScript" title="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.svg" alt="React" title="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nextjs.svg" alt="Next.js" title="Next.js"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.svg" alt="Docker" title="Docker"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.svg" alt="Redis" title="Redis"/></code>
-
----
-
-### 🔥 Featured Repositories
-
-| Repository | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Ekko Loop](https://github.com/abrar-khan-alvi)** | `Django` `Celery` `Redis` `Docker` | B2B SaaS platform automating appointment scheduling & real-time messaging workflows. |
-| **[AI Knowledge Engine](https://github.com/abrar-khan-alvi)** | `DRF` `LangChain` `VectorDB` | Autonomous LLM agents & advanced RAG pipeline for legal document retrieval. |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
 ---
 
